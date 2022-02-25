@@ -1,0 +1,13 @@
+C:\Users\Guilherme\Desktop\Arquivos\geek university\C# Orientação a Objetos e Projetos\Enumerações e Composições\Exercício\fixacao\couse\couse\bin\Debug\netcoreapp3.1\couse.exe
+C:\Users\Guilherme\Desktop\Arquivos\geek university\C# Orientação a Objetos e Projetos\Enumerações e Composições\Exercício\fixacao\couse\couse\bin\Debug\netcoreapp3.1\couse.deps.json
+C:\Users\Guilherme\Desktop\Arquivos\geek university\C# Orientação a Objetos e Projetos\Enumerações e Composições\Exercício\fixacao\couse\couse\bin\Debug\netcoreapp3.1\couse.runtimeconfig.json
+C:\Users\Guilherme\Desktop\Arquivos\geek university\C# Orientação a Objetos e Projetos\Enumerações e Composições\Exercício\fixacao\couse\couse\bin\Debug\netcoreapp3.1\couse.runtimeconfig.dev.json
+C:\Users\Guilherme\Desktop\Arquivos\geek university\C# Orientação a Objetos e Projetos\Enumerações e Composições\Exercício\fixacao\couse\couse\bin\Debug\netcoreapp3.1\couse.dll
+C:\Users\Guilherme\Desktop\Arquivos\geek university\C# Orientação a Objetos e Projetos\Enumerações e Composições\Exercício\fixacao\couse\couse\bin\Debug\netcoreapp3.1\couse.pdb
+C:\Users\Guilherme\Desktop\Arquivos\geek university\C# Orientação a Objetos e Projetos\Enumerações e Composições\Exercício\fixacao\couse\couse\obj\Debug\netcoreapp3.1\couse.csprojAssemblyReference.cache
+C:\Users\Guilherme\Desktop\Arquivos\geek university\C# Orientação a Objetos e Projetos\Enumerações e Composições\Exercício\fixacao\couse\couse\obj\Debug\netcoreapp3.1\couse.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Desktop\Arquivos\geek university\C# Orientação a Objetos e Projetos\Enumerações e Composições\Exercício\fixacao\couse\couse\obj\Debug\netcoreapp3.1\couse.AssemblyInfo.cs
+C:\Users\Guilherme\Desktop\Arquivos\geek university\C# Orientação a Objetos e Projetos\Enumerações e Composições\Exercício\fixacao\couse\couse\obj\Debug\netcoreapp3.1\couse.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\Arquivos\geek university\C# Orientação a Objetos e Projetos\Enumerações e Composições\Exercício\fixacao\couse\couse\obj\Debug\netcoreapp3.1\couse.dll
+C:\Users\Guilherme\Desktop\Arquivos\geek university\C# Orientação a Objetos e Projetos\Enumerações e Composições\Exercício\fixacao\couse\couse\obj\Debug\netcoreapp3.1\couse.pdb
+C:\Users\Guilherme\Desktop\Arquivos\geek university\C# Orientação a Objetos e Projetos\Enumerações e Composições\Exercício\fixacao\couse\couse\obj\Debug\netcoreapp3.1\couse.genruntimeconfig.cache
